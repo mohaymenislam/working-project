@@ -1,0 +1,21 @@
+.app{
+    /* margin: 50px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.controls {
+    width: 40vw;
+}
+label {
+    font-size: 19px;
+}
+.box{
+    text-align: center;
+    width: 40vw;
+    padding: 25vh 0px;
+    height: 50vh;
+    background-color: blueviolet;
+    color: wheat;
+}
